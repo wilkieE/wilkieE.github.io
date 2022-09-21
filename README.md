@@ -1,6 +1,6 @@
 Responsive Portfolio Website
 
-### [Visit Website](https://ejiroghene-wilkie.web.app/)
+### [Visit Website](https://wilkieE.github.io/)
 
 ## Author
 
