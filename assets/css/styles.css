@@ -972,6 +972,15 @@ header {
   }
 }
 
+@media screen and (max-width: 500px) {
+  .swiper-container-horizontal > .swiper-pagination-bullets {
+    bottom: -2.5rem;
+  }
+  .button--small {
+    padding: 0.75rem 0.6rem;
+  }
+}
+
 @media screen and (min-width: 351px) {
   .loader {
     font-size: 13vh;
