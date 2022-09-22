@@ -4,5 +4,4 @@ Responsive Portfolio Website
 
 ## Author
 
-Email - wilkieejiroghene@gmail.com \
-Portfolio - https://ejiroghene-wilkie.web.app/
+Email - wilkieejiroghene@gmail.com
